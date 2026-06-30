@@ -451,7 +451,7 @@ export default function App() {
           onMouseEnter={(e) => { e.target.style.borderColor = COLORS.amber; e.target.style.color = COLORS.amber; }}
           onMouseLeave={(e) => { e.target.style.borderColor = COLORS.border; e.target.style.color = COLORS.textDim; }}
         >
-          ↺ RESET TO TCPL EXAMPLE
+          ↺ RESET TO ORIGINAL EXAMPLE
         </button>
       </div>
 
